@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password456"
+    },
+    {
+      "id": 8361,
+      "name": "r",
+      "email": "r@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 9488,
+      "name": "r",
+      "email": "r@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 3686,
+      "name": "t",
+      "email": "t@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 3469,
+      "name": "y",
+      "email": "y@gmail.com",
+      "password": "yyy"
+    },
+    {
+      "id": 8441,
+      "name": "y",
+      "email": "y@gmail.com",
+      "password": "yyy"
+    },
+    {
+      "id": 2463,
+      "name": "vishakha",
+      "email": "vishakha@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": 9212,
+      "name": "vishakha",
+      "email": "vishakhaajani28@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 8100,
+      "name": "p",
+      "email": "p@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 4505,
+      "name": "p",
+      "email": "p@gmail.com",
+      "password": "p"
+    }
+  ]
+}
